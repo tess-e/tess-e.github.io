@@ -2,7 +2,7 @@
 layout: page
 title: Digital Water Lab
 description: Professor Branko Kerkez, University of Michigan-Ann Arbor, May 2021 - May 2022
-img: assets/img/river.png
+img: assets/img/River.png
 importance: 3
 category: Past work
 ---
