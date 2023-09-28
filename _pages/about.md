@@ -2,25 +2,36 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Computer Scientist. Artist. Media Theorist.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: picture_of_me.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Contact me: <p>
+    <p>eschebach[at]uchicago[dot]edu</p>
+
+# edu:
+#   align: left
+#   education: >
+#   <p>here<p>
+
+# cute:
+#   image:
+#   inform: >
+#   Beyond academic endeavors I am passionate about synthesizers, fashion design, and my pet gecko Chancey.
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a first year PhD student in Computer Science at the University of Chicago.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+**I seek to engage in interdisciplinary research bridging the gap between media theory and formal technical practices. I am particularly interested in conceptualizations of anonymity, open access, and grappling with the implications of increasing integration of media based technologies in daily life.**
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I have a strong background in machine learning and security and have completed both artistic and technical works based on these foundations. As an artist, I utilize new media technologies as avenues to communicate computing topics to non-technical audiences. In my academic work I pull from media theory as a unique avenue for solidly framing the mass media of computing in a human centered manner. I look at the long history and theorization of art, radio, television, and film for possible solutions to modern analogs of these dilemmas.
+
+In April 2023 I graduated from the University of Michigan - Ann Arbor with bachelor's degrees in **Data Science Engineering** Summa Cum Laude and **Film, Television, and Media** with Distinction. 

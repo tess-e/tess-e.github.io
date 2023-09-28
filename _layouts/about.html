@@ -37,6 +37,20 @@ layout: default
           </div>
           {%- endif %}
 
+          {% if page.edu -%}
+
+          {%- endif %}
+
+          <!-- {% if page.edu -%}
+          <div class="edu float-{%- if page.edu.align == 'left' -%}left{%- else -%}right{%- endif -%}">
+            {%- if page.edu.education %}
+            <div class="education">
+              {{ page.edu.education }}
+            </div>
+            {%- endif %}
+          </div>
+          {%- endif %} -->
+
           <div class="clearfix">
             {{ content }}
           </div>
@@ -72,6 +86,7 @@ layout: default
 
             </div>
           {%- endif %}
+          <p>Beyond academic endeavors I am passionate about synthesizers, fashion design, and my pet gecko Chancey.<P>
         </article>
 
 </div>
