@@ -2,10 +2,14 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 5
 ---
+**University of Chicago**
+
+**CMSC 14100: Introduction to Computer Science I**
+<i> Teaching Assistant January 2024 - Present <i>
 
 **University of Michigan - Ann Arbor**
 
