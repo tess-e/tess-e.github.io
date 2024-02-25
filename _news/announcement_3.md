@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Starting my PhD in Computer Science at the University of Chicago.
+Started my PhD in Computer Science at the University of Chicago.
