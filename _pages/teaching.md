@@ -8,12 +8,12 @@ nav_order: 5
 ---
 **University of Chicago**
 
-**CMSC 14100: Introduction to Computer Science I**
+<i> **CMSC 14100: Introduction to Computer Science I** <i>
 <i> Teaching Assistant January 2024 - Present <i>
 
 **University of Michigan - Ann Arbor**
 
-**EECS 388: Introduction to Computer Security**
+<i> **EECS 388: Introduction to Computer Security** <i>
 <i> Teaching Assistant January - April 2023 & June - July 2023 <i>
 <ul>
   <li>Teaching a lecture style discussion section reinforcing topics and presenting new material</li>
