@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Assorted Work
-description: (Content Warning Nudity)
+description:
 img: assets/img/bias.png
 importance: 4
 category: new media
