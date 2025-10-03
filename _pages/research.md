@@ -2,57 +2,23 @@
 layout: page
 title: research
 permalink: /research/
-description: I am currently conducting a qualitative interview study on the monetization strategies of educational YouTube content creators. This project pulls on parallels between the complexities of educational programming on public television and contemporary YouTube. I seek to understand how to maintain public access to educational content while supporting a wide range of creators.
+description:
 nav: true
 nav_order: 2
 display_categories: [Past work]
 horizontal: false
 ---
+**Publications**
+Tess Eschebach, Nikola Banovic, and Allison McDonald. 2025. Playing “Google’s Game”: How Educational
+YouTubers Manage Tensions Between Education and Monetization. Proc. ACM Hum.-Comput. Interact. 9, 7,
+Article CSCW315 (November 2025)
 
-<!-- pages/projects.md -->
-<div class="projects">
-{%- if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_projects = site.research | where: "category", category -%}
-  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-  {% endfor %}
+**Presentations**
+Eschebach, T., Schmidt, J., Kerkez, B. Preventing Flooding Through Data Visualization. Presented at: Data for Public Good Symposium 6; March 2022; Ann Arbor, MI.
 
-{%- else -%}
-<!-- Display projects without categories -->
-  {%- assign sorted_projects = site.research | sort: "importance" -%}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-{%- endif -%}
-</div>
+**Research Experiences**
+<i> Computational HCI Lab <i>
+Professor Nikola Banovic, University of Michigan-Ann Arbor, November 2021 - September 2023
+
+<i> Digital Water Lab <i>
+Professor Branko Kerkez, University of Michigan-Ann Arbor, May 2021 - May 2022
