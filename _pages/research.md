@@ -15,10 +15,6 @@ horizontal: false
 
 </div>
 
-Tess Eschebach, Nikola Banovic, and Allison McDonald. 2025. Playing “Google’s Game”: How Educational
-YouTubers Manage Tensions Between Education and Monetization. Proc. ACM Hum.-Comput. Interact. 9, 7,
-Article CSCW315 (November 2025)
-
 **Presentations**
 <div class="publications">
   {% bibliography --group_by none --query @*[pres=true]* %}
