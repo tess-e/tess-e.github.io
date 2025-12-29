@@ -9,11 +9,21 @@ display_categories: [Past work]
 horizontal: false
 ---
 **Publications**
+<div class="publications">
+
+{% bibliography --group_by none --query @*[pres=false]* %}
+
+</div>
+
 Tess Eschebach, Nikola Banovic, and Allison McDonald. 2025. Playing “Google’s Game”: How Educational
 YouTubers Manage Tensions Between Education and Monetization. Proc. ACM Hum.-Comput. Interact. 9, 7,
 Article CSCW315 (November 2025)
 
 **Presentations**
+<div class="publications">
+  {% bibliography --group_by none --query @*[pres=true]* %}
+</div>
+
 Eschebach, T., Schmidt, J., Kerkez, B. Preventing Flooding Through Data Visualization. Presented at: Data for Public Good Symposium 6; March 2022; Ann Arbor, MI.
 
 **Research Experiences**
