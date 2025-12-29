@@ -8,23 +8,26 @@ nav_order: 2
 display_categories: [Past work]
 horizontal: false
 ---
-**Publications**
+<h2> Publications </h2>
+
 <div class="publications">
 
 {% bibliography --group_by none --query @*[pres=false]* %}
 
 </div>
 
-**Presentations**
+<h2> **Presentations and Posters** </h2>
 <div class="publications">
   {% bibliography --group_by none --query @*[pres=true]* %}
 </div>
 
-Eschebach, T., Schmidt, J., Kerkez, B. Preventing Flooding Through Data Visualization. Presented at: Data for Public Good Symposium 6; March 2022; Ann Arbor, MI.
+<h2> **Research Experiences** </h2>
 
-**Research Experiences**
-<i> Computational HCI Lab <i>
-Professor Nikola Banovic, University of Michigan-Ann Arbor, November 2021 - September 2023
+<p> <i> SUPERGroup </i>
+Professor Blase Ur, University of Chicago </p>
 
-<i> Digital Water Lab <i>
-Professor Branko Kerkez, University of Michigan-Ann Arbor, May 2021 - May 2022
+<p> <i> Computational HCI Lab </i>
+Professor Nikola Banovic, University of Michigan - Ann Arbor, November 2021 - September 2023 </p>
+
+<p> <i> Digital Water Lab </i>
+Professor Branko Kerkez, University of Michigan - Ann Arbor, May 2021 - May 2022 </p>
