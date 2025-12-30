@@ -12,6 +12,6 @@ category: new media
     </div>
 </div>
 <div class="caption">
-    Gif drawing on algorithmic bias and the complications of being treated as invisible. 
+    Gif drawing on algorithmic bias and the complications of being treated as invisible. (Eschebach, 2022) 
 </div>
 
