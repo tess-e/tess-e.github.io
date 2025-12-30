@@ -3,17 +3,19 @@ layout: page
 title: Hidden Identity
 description: Origami Paper and Wire Mask, 2021
 img: assets/img/mask1.png
-importance: 3
+importance: 4
 category: new media
 ---
 
 <p>
-Hidden Identity
-<br>
 <u>Tess Eschebach</u>
+</p>
+<p>
+<i>Designed for Digital Bodies</i>
 <br>
 2021
-<br>
+</p>
+<p>
 Copper wire, Recycled Paper, Glue.
 </p>
 

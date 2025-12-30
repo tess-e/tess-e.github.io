@@ -3,20 +3,19 @@ layout: page
 title: Consume
 description: VR Short Film, 2022
 img: assets/img/blackbox.png
-importance: 1
+importance: 2
 category: new media
 ---
 
 🏆 **Best in Show.** Amplify. Digital Studies Institute at The University of Michigan. 2023
- 
+
+<p><u>Tess Eschebach</u></p>
 <p>
-Consume
-<br>
-<u>Tess Eschebach</u>
-<br>
 <i>Exhibited at: University of Michigan Digital Studies Institute “Amplify: DSI Student Showcase”</i>
-April 2023
 <br>
+April 2023
+</p>
+<p>
 Virtual environment created in Unity using textured primitives and particle motion.
 </p>
 

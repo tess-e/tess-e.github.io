@@ -3,20 +3,21 @@ layout: page
 title: Making Memories
 description: Generative Art, 2021 (Photosensitive Warning)
 img: assets/img/gifscopy/front.png
-importance: 2
+importance: 3
 category: new media
 ---
 
 🏆 **Honorable Mention.** Amplify. Digital Studies Institute at The University of Michigan. 2022.
 
 <p>
-Making Memories
-<br>
 <u>Tess Eschebach</u>
-<br>
+</p>
+<p>
 <i>Exhibited at: University of Michigan Digital Studies Institute “Amplify: DSI Student Showcase”</i>
-April 2022
 <br>
+April 2022
+</p>
+<p>
 Fine-tuned generative adversarial network (GAN) on the artist's Snapchat memories, GIFs.
 </p>
 
