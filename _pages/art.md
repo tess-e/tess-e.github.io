@@ -1,6 +1,6 @@
 ---
 layout: page
-title: portfolio
+title: Art
 permalink: /art/
 description:
 nav: true
