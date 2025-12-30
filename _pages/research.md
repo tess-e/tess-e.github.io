@@ -5,7 +5,7 @@ permalink: /research/
 description:
 nav: true
 nav_order: 2
-display_categories: [Past work]
+display_categories:
 horizontal: false
 ---
 <h2> Publications </h2>
