@@ -10,9 +10,9 @@ horizontal: false
 ---
 <h2> Publications </h2>
 <p>
-<a href="/assets/pdf/privacyart-chi25.pdf">
+<a href="/assets/pdf/privacyart-chi26.pdf">
 Depictions of Privacy Invasion and Surveillance in Artworks and Potential Lessons For Privacy Communication
-<a>
+</a>
 <br>
 <u>Tess Eschebach,</u> Emma I. C. Peterson, Nathaniel Kim, Bingning Liu, Marc Downie, Douglas Pancoast, Blase Ur.
 <br>
