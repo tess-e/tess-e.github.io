@@ -13,13 +13,13 @@ nav_order: 5
 Graduate Instructional Assistant - Spring 2026
 </p>
 
-<p><b>University of Chicago CMSC 14100: Introduction to Computer Science I</b> 
+<p><b>CMSC 14100: Introduction to Computer Science I</b> 
 <br>
 Graduate Instructional Assistant - Winter 2024, Spring 2024, Fall 2024, Winter 2025, Fall 2025, Winter 2026
 </p>
 
 <p>
-<b>University of Chicago CMSC 14200: Introduction to Computer Science II</b> 
+<b>CMSC 14200: Introduction to Computer Science II</b> 
 <br>
 Graduate Instructional Assistant - Spring 2025
 </p>
