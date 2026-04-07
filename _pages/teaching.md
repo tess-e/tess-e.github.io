@@ -8,7 +8,7 @@ nav_order: 5
 ---
 <table>
 <tbody>
-<tr><th colspan="2"><b>University of Chicago</b> (Graduate Instructional Assistant)</th></tr>
+<tr><th colspan="3"><b>University of Chicago</b> (Graduate Instructional Assistant)</th></tr>
 <tr>
 <td><i>CMSC 23200: Introduction to Computer Security</i></td>
 <td></td>
@@ -35,7 +35,7 @@ Spring 2025
 
 <br>
 <tr>
-<th colspan="2">
+<th colspan="3">
 <b>University of Michigan - Ann Arbor</b> (Instructional Assistant)
 </th>
 </tr>
