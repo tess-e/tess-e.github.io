@@ -9,8 +9,9 @@ nav_order: 5
 <p><b>University of Chicago</b> (Graduate Instructional Assistant) </p>
 
 <table>
+<tbody>
 <tr>
-<td>CMSC 23200: Introduction to Computer Security</td>
+<td><i>CMSC 23200: Introduction to Computer Security</i></td>
 <td></td>
 <td>
 Spring 2026
@@ -32,11 +33,13 @@ Winter 2024, Spring 2024, Fall 2024, Winter 2025, Fall 2025, Winter 2026
 Spring 2025
 </td>
 </tr>
+</tbody>
 </table>
 
 <p><b>University of Michigan - Ann Arbor</b> (Instructional Assistant)</p>
 
 <table>
+<tbody>
 <tr>
 <td><i>EECS 388: Introduction to Computer Security</i></td>
 <td></td>
@@ -52,6 +55,7 @@ Winter 2023, Summer 2023
 Fall 2022
 </td>
 </tr>
+</tbody>
 </table>
 
 
