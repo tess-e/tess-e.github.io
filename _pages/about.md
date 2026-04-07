@@ -18,8 +18,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in Computer Science at the University of Chicago exploring the intersection of **human computer interaction**, **usable security**, and **media studies**. I am co-advised by an interdisciplinary team including [Marc Downie](https://cms.uchicago.edu/people/marc-downie),  [Blase Ur](https://www.blaseur.com/), and [Allison McDonald](https://amcdon.com/).
+I am a PhD student in Computer Science at the [University of Chicago](https://computerscience.uchicago.edu/) working at the intersection of **human computer interaction**, **usable privacy**, and **media studies**. I am fortunate to be co-advised by an interdisciplinary team including [Marc Downie](https://cms.uchicago.edu/people/marc-downie), [Blase Ur](https://www.blaseur.com/), and [Allison McDonald](https://amcdon.com/).
 
-My cross-disciplinary research employs novel mechanisms (e.g., art, AI agents) to understand end-user perceptions of security and privacy topics and develop unique scientific communication stratagies. I build upon theorization of art, radio, television, and film to highlight modern analogues in computing. As an artist, I utilize new media technologies as avenues to communicate computing topics to non-technical audiences.
+My cross-disciplinary research explores factors influencing the adoption and rejection of emerging technologies. Within this, I am particularly interested in user autonomy and refusal. I bridge gaps between the fields by drawing upon historical contexts to highlight modern analogues. 
 
-In April 2023 I graduated from the University of Michigan - Ann Arbor with bachelor's degrees in **Data Science Engineering** Summa Cum Laude and **Film, Television, and Media** with Distinction. 
+I previously received bachelor’s degrees in Data Science (BSE) and Film, Television, and Media (BS) from the University of Michigan - Ann Arbor.
