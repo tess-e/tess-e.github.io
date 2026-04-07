@@ -6,10 +6,9 @@ description:
 nav: true
 nav_order: 5
 ---
-<p><b>University of Chicago</b> (Graduate Instructional Assistant)</p>
-
-<table id="table1">
+<table>
 <tbody>
+<tr><th colspan="2"><b>University of Chicago</b> (Graduate Instructional Assistant)</th></tr>
 <tr>
 <td><i>CMSC 23200: Introduction to Computer Security</i></td>
 <td></td>
@@ -33,14 +32,14 @@ Winter 2024, Spring 2024, Fall 2024, Winter 2025, Fall 2025, Winter 2026
 Spring 2025
 </td>
 </tr>
-</tbody>
-</table>
 
 <br>
-<p><b>University of Michigan - Ann Arbor</b> (Instructional Assistant)</p>
+<tr>
+<th colspan="2">
+<b>University of Michigan - Ann Arbor</b> (Instructional Assistant)
+</th>
+</tr>
 
-<table id="table2">
-<tbody>
 <tr>
 <td><i>EECS 388: Introduction to Computer Security</i></td>
 <td></td>
