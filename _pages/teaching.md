@@ -6,9 +6,9 @@ description:
 nav: true
 nav_order: 5
 ---
-<p><b>University of Chicago</b> (Graduate Instructional Assistant) </p>
+<p><b>University of Chicago</b> (Graduate Instructional Assistant)</p>
 
-<table>
+<table id="table1">
 <tbody>
 <tr>
 <td><i>CMSC 23200: Introduction to Computer Security</i></td>
@@ -36,9 +36,10 @@ Spring 2025
 </tbody>
 </table>
 
+<br>
 <p><b>University of Michigan - Ann Arbor</b> (Instructional Assistant)</p>
 
-<table>
+<table id="table2">
 <tbody>
 <tr>
 <td><i>EECS 388: Introduction to Computer Security</i></td>

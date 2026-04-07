@@ -8,9 +8,11 @@ category: new media
 ---
 <p>
 <u>Tess Eschebach,</u> Ziwei Li, Lola Obielodan, Tucker Rae-Grant, Helena Williams
+<br>
+(Equal contributions, ordered by last name)
 </p>
 <p>
-<i>Designed for CMSC 33218: Surviellence Aesthetics</i>
+<i>Designed for CMSC 33218: Surveillance Aesthetics</i>
 <br>
 December 2024
 </p>
@@ -36,8 +38,6 @@ As a viewer tries to lower the volume on the soundboard by moving the sliders, t
 </p>
 <p> 
 After 30 seconds, the positions of the sliders invert. At this point, viewers realize that they were being recorded during their “show,” and their voice, filtered out of the cacophony, plays clearly in the booth. The entire interaction session takes about 1 minute to complete.
-<p>
-The final exhibit installation consisted of a physical mixing board, a Blue Snowball iCE condenser microphone, and computer speakers. The mixing board was created with a laser-cut wooden console that housed six Arduino-controlled slider potentiometers with 3D-printed slider caps, and a red LED button. The programming for the physical interactions (Arduino), audio mixing (Pygame in Python), and live audio recording (Pyaudio in Python) was housed on a Raspberry Pi.
 </p>
 
 <div class="col-sm mt-3 mt-md-0">

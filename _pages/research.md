@@ -14,7 +14,7 @@ horizontal: false
 Depictions of Privacy Invasion and Surveillance in Artworks and Potential Lessons For Privacy Communication
 </a>
 <br>
-<u>Tess Eschebach,</u> Emma I. C. Peterson, Nathaniel Kim, Bingning Liu, Marc Downie, Douglas Pancoast, Blase Ur.
+<u>Tess Eschebach,</u> Emma I. C. Peterson, Nathaniel Kim, Bingning (Jolin) Liu, Marc Downie, Douglas Pancoast, Blase Ur.
 <br>
 <i>Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI),</i>
 April 2026
