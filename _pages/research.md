@@ -8,7 +8,7 @@ nav_order: 2
 display_categories:
 horizontal: false
 ---
-<h2> Publications </h2>
+<h4> Publications </h4>
 <p>
 <a href="/assets/pdf/privacyart-chi26.pdf">
 Depictions of Privacy Invasion and Surveillance in Artworks and Potential Lessons For Privacy Communication
@@ -33,7 +33,7 @@ November 2025
 <br>
 </p>
 
-<h2> Presentations and Posters </h2>
+<h4> Presentations and Posters </h4>
 <p>
 <a href="/assets/pdf/learningfrom-msw24.pdf">
 Learning From Privacy Artworks to Design More Effective Privacy Communication
@@ -58,7 +58,7 @@ March 2022
 <br>
 </p>
 
-<h2> Research Experience </h2>
+<h4> Research Experience </h4>
 
 <p> <a href="https://super.cs.uchicago.edu/"> SUPERGroup </a>
 <br>
