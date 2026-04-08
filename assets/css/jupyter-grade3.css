@@ -10,7 +10,7 @@ div#notebook {
 
 body,
 div.body {
-    font-family: sans-serif;
+    font-family: InterVariable, sans-serif;
     font-size: 13pt;
     color: #303030;
     background-color: #ffffff;

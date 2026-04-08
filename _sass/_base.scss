@@ -120,7 +120,7 @@ blockquote {
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
+    font-family: InterVariable, sans-serif;
 
     p {
       display: inline-block;
@@ -1034,3 +1034,11 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
+:root {
+  font-family: Inter, sans-serif;
+  font-feature-settings: 'liga' 1, 'calt' 1; /* fix for Chrome */
+}
+@supports (font-variation-settings: normal) {
+  :root { font-family: InterVariable, sans-serif; }
+}
+
