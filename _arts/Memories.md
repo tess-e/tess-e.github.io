@@ -15,6 +15,8 @@ category: new media
 <p>
 <i>Exhibited at: University of Michigan Digital Studies Institute “Amplify: DSI Student Showcase”</i>
 <br>
+<i>Designed for FTVM 394: Media Prod: Volumetric & 360 Cinema</i>
+<br>
 April 2022
 </p>
 <p>
@@ -34,7 +36,5 @@ Fine-tuned generative adversarial network (GAN) on the artist's Snapchat memorie
 </div>
 
 <i>Making Memories</i> explores the use of a generative adversarial network (GAN) on Snapchat memories exploring the lack of coherent output images produced from a small dataset and limited computing power. Through digital drawings overlaid on the outputs, this piece explores the creation of meaning from ambiguity and the experience of understanding data that does not make intuitive sense to the human mind.
-
-<a href="https://alkaline-guiltless-fire.glitch.me/"> Click here to see the orignal version of this project. <a>
 
 

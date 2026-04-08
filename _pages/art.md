@@ -2,7 +2,7 @@
 layout: page
 title: Art
 permalink: /art/
-description: As an artist, I use new media technologies as avenues to communicate computing topics to non-technical audiences.
+description: As an artist, I use new media to communicate about computing topics.
 nav: true
 nav_order: 3
 display_categories:

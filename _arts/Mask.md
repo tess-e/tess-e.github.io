@@ -11,7 +11,7 @@ category: new media
 <u>Tess Eschebach</u>
 </p>
 <p>
-<i>Designed for Digital Bodies</i>
+<i>Designed for FTVM 394: Media Prod: Digital Bodies</i>
 <br>
 2021
 </p>
@@ -23,9 +23,7 @@ Copper wire, Recycled Paper, Glue.
     {% include video.html path="assets/video/MaskDemo.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
 </div>
 
-
-
-<i>Hidden Identity</i> is a speculative anti-surveillance mask inspired by themes from Haraway’s “A Cyborg Manifesto” and Blas and Gaboury's "Biometrics and Opacity: A Conversation". While seeking to subvert digital surveillance technologies, the mask itself is tactile and non-electrified building upon ideas of the integration of machines and biology. The combination of these factors helps create the obscurity and vibrant individuality of the mask in its final form.
+<i>Hidden Identity</i> is a speculative anti-surveillance mask inspired by themes from Haraway’s “A Cyborg Manifesto” and Blas and Gaboury's "Biometrics and Opacity: A Conversation". While seeking to subvert digital surveillance technologies, the mask itself is tactile and non-electrified, building upon ideas of the integration of machines and biology. The combination of these factors helps create the obscurity and vibrant individuality of the mask in its final form.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

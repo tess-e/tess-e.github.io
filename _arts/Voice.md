@@ -30,8 +30,8 @@ Motorized sliders, laser cut wood, Arduino, Raspberry Pi, 3-D printing, Python c
 </div>
 
 <p>
-<i>HTTLJ feat. The Voice,</i> is an interactive installation that explores the border between ambient noise and private conversations. We played with this spectrum by developing a system that seeks to maintain audio privacy even as the visitor tries to eavesdrop. Meanwhile, they are secretly being recorded themselves and folded into the mix.
-This piece takes the form of a radio broadcast booth for a fictional station, HTTLJ. As “The Voice,” visitors are encouraged by passive-aggressive post-its to speak audibly during their “show.”
+<i>HTTLJ feat. The Voice,</i> is an interactive installation that explores the border between ambient noise and private conversations.
+This piece takes the form of a radio broadcast booth for a fictional station, HTTLJ. As “The Voice,” visitors are encouraged to speak during their “show.”
 </p>
 <p>
 As a viewer tries to lower the volume on the soundboard by moving the sliders, the system calculates an “isolation” value to determine whether they are trying to listen to a single stream. In order to prevent this isolation, the system forces the altered sliders back to the top. The sixth slider insistently maintains its “off” position.
@@ -40,13 +40,14 @@ As a viewer tries to lower the volume on the soundboard by moving the sliders, t
 After 30 seconds, the positions of the sliders invert. At this point, viewers realize that they were being recorded during their “show,” and their voice, filtered out of the cacophony, plays clearly in the booth. The entire interaction session takes about 1 minute to complete.
 </p>
 
+<!---
 <div class="col-sm mt-3 mt-md-0">
     {% include video.html path="assets/video/The_voice_2024.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
 </div>
 <div class="caption">
 Special thanks to Helena Williams for editing together this demostration video for our project.
 </div>
-
+-->
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/the_voice_inside.png" title="inside the voice" class="img-fluid rounded z-depth-1" %}
