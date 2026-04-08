@@ -18,6 +18,7 @@ span,
 strong {
   color: var(--global-text-color);
   font-family: InterVariable, sans-serif;
+  font-feature-settings: 'liga' 1, 'calt' 1; /* fix for Chrome */
 }
 
 hr {
@@ -1035,10 +1036,10 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
-:root {
-  font-family: Inter, sans-serif;
-  font-feature-settings: 'liga' 1, 'calt' 1; /* fix for Chrome */
-}
+//:root {
+  //font-family: Inter, sans-serif;
+  //font-feature-settings: 'liga' 1, 'calt' 1; /* fix for Chrome */
+//}
 @supports (font-variation-settings: normal) {
   :root { font-family: InterVariable, sans-serif; }
 }

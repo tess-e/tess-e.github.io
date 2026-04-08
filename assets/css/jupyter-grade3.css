@@ -1,6 +1,6 @@
 /* From https://github.com/dunovank/jupyter-themes/blob/master/jupyterthemes/styles/compiled/grade3.css */
 div#notebook {
-    font-family: sans-serif;
+    font-family: InterVariable, sans-serif;
     font-size: 13pt;
     line-height: 170%;
     color: #303030;
@@ -27,7 +27,7 @@ body.notebook_app {
 }
 
 a {
-    font-family: sans-serif;
+    font-family: InterVariable, sans-serif;
     color: #303030;
     -webkit-font-smoothing: antialiased !important;
 }
@@ -217,14 +217,14 @@ span#sort-name.btn.btn-xs.btn-default.sort-action:hover .fa {
 }
 
 div#notebook_toolbar div.dynamic-instructions {
-    font-family: sans-serif;
+    font-family: InterVariable, sans-serif;
     font-size: 17px;
     color: #828892;
 }
 
 span#login_widget>.button,
 #logout {
-    font-family: "Proxima Nova", sans-serif;
+    font-family: InterVariable, sans-serif;
     color: #303030;
     background: transparent;
     background-color: transparent;
@@ -435,7 +435,7 @@ div.list_item:hover {
 }
 
 ul#tabs a {
-    font-family: sans-serif;
+    font-family: InterVariable, sans-serif;
     font-size: 13.5pt;
     font-weight: normal;
     font-style: normal;
@@ -443,7 +443,7 @@ ul#tabs a {
 }
 
 .nav-tabs {
-    font-family: sans-serif;
+    font-family: InterVariable, sans-serif;
     font-size: 13.5pt;
     font-weight: normal;
     font-style: normal;
@@ -510,7 +510,7 @@ ul#tabs a {
 }
 
 div#notebook {
-    font-family: sans-serif;
+    font-family: InterVariable, sans-serif;
     font-size: 13pt;
     padding-top: 4px;
 }
@@ -561,7 +561,7 @@ div#header-container {
 
 #header,
 .edit_app #header {
-    font-family: sans-serif;
+    font-family: InterVariable, sans-serif;
     font-size: 13pt;
     box-shadow: none;
     background-color: #ffffff;
@@ -611,7 +611,7 @@ p.navbar-text.indicator_area {
 }
 
 .navbar-default {
-    font-family: sans-serif;
+    font-family: InterVariable, sans-serif;
     font-size: 13pt;
     background-color: #ffffff;
     border-color: #d4d4d4;
