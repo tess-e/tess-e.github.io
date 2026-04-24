@@ -13,7 +13,7 @@ horizontal: false
 <p>
 <b>Investigating ChatGPT Usage in High Schools: Student Perspectives on Policy and Practice. </b> 
 <br>
-Jake Chanenson, <u>Tess Eschebach,</u> Marshini Chetty.
+Jake Chanenson, <u>Tess Eschebach</u>, Marshini Chetty.
 <br>
 <i>The Ninth Annual ACM Conference on Fairness, Accountability, and Transparency (FAccT),</i>
 June 2026 [Paper forthcoming]
@@ -25,7 +25,7 @@ June 2026 [Paper forthcoming]
 Depictions of Privacy Invasion and Surveillance in Artworks and Potential Lessons For Privacy Communication
 </a>
 <br>
-<u>Tess Eschebach,</u> Emma I. C. Peterson, Nathaniel Kim, Bingning (Jolin) Liu, Marc Downie, Douglas Pancoast, Blase Ur.
+<u>Tess Eschebach</u>, Emma I. C. Peterson, Nathaniel Kim, Bingning (Jolin) Liu, Marc Downie, Douglas Pancoast, Blase Ur.
 <br>
 <i>Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI),</i>
 April 2026
@@ -37,7 +37,7 @@ April 2026
 Playing “Google’s Game”: How Educational YouTubers Manage Tensions Between Education and Monetization
 </a>
 <br>
-<u>Tess Eschebach,</u> Nikola Banovic, Allison McDonald. 
+<u>Tess Eschebach</u>, Nikola Banovic, Allison McDonald. 
 <br>
 <i>28th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW),</i>
 November 2025
@@ -50,7 +50,7 @@ November 2025
 Learning From Privacy Artworks to Design More Effective Privacy Communication
 </a>
 <br>
-<u>Tess Eschebach*,</u> Emma I.C. Peterson*, Blase Ur. (* Equal contribution)
+<u>Tess Eschebach</u>,* Emma I.C. Peterson,* Blase Ur. (* Equal contribution)
 <br>
 Poster presented at: <i>Midwest Security Workshop 9 (MSW),</i>
 2024
@@ -62,7 +62,7 @@ Poster presented at: <i>Midwest Security Workshop 9 (MSW),</i>
 Preventing Flooding Through Data Visualization
 </a>
 <br>
-<u>Tess Eschebach,</u> Jacquelyn Schmidt, Branko Kerkez.
+<u>Tess Eschebach</u>, Jacquelyn Schmidt, Branko Kerkez.
 <br>
 Presented at: <i>Data for Public Good Symposium 6,</i>
 March 2022
