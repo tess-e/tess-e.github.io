@@ -9,6 +9,17 @@ display_categories:
 horizontal: false
 ---
 <h4> Publications </h4>
+
+<p>
+<b>Investigating ChatGPT Usage in High Schools: Student Perspectives on Policy and Practice. </b> 
+<br>
+Jake Chanenson, <u>Tess Eschebach,</u> Marshini Chetty.
+<br>
+<i>The Ninth Annual ACM Conference on Fairness, Accountability, and Transparency (FAccT),</i>
+June 2026 [Paper forthcoming]
+<br>
+</p>
+
 <p>
 <a href="/assets/pdf/privacyart-chi26.pdf">
 Depictions of Privacy Invasion and Surveillance in Artworks and Potential Lessons For Privacy Communication
