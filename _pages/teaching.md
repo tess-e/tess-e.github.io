@@ -77,7 +77,7 @@ University of Chicago <i>(Graduate Instructional Assistant)</i>
 <br>Spring 2025
 </p>
 
-<p><i>EECS 388: Introduction to Computer Security</i>
+<p><b>EECS 388: Introduction to Computer Security</b>
 <br>
 University of Michigan - Ann Arbor <i>(Instructional Assistant)</i><br>
 Winter 2023, Summer 2023
