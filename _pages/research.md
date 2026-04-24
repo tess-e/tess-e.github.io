@@ -8,7 +8,7 @@ nav_order: 2
 display_categories:
 horizontal: false
 ---
-<h4> Publications </h4>
+<h4><b>Publications</b></h4>
 
 <p>
 <b>Investigating ChatGPT Usage in High Schools: Student Perspectives on Policy and Practice. </b> 
@@ -44,7 +44,7 @@ November 2025
 <br>
 </p>
 
-<h4> Presentations and Posters </h4>
+<h4><b>Presentations and Posters</b></h4>
 <p>
 <a href="/assets/pdf/learningfrom-msw24.pdf">
 Learning From Privacy Artworks to Design More Effective Privacy Communication
@@ -69,7 +69,7 @@ March 2022
 <br>
 </p>
 
-<h4> Research Experience </h4>
+<h4><b>Research Experience</b></h4>
 
 <p> <a href="https://super.cs.uchicago.edu/"> SUPERGroup </a>
 <br>
