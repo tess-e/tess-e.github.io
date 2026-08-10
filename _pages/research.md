@@ -11,12 +11,12 @@ horizontal: false
 <h4><b>Publications</b></h4>
 
 <p>
-<b>Investigating ChatGPT Usage in High Schools: Student Perspectives on Policy and Practice. </b> 
+<a href="/assets/pdf/highschool-facct2026.pdf">Investigating ChatGPT Usage in High Schools: Student Perspectives on Policy and Practice. </a> 
 <br>
 Jake Chanenson, <u>Tess Eschebach</u>, Marshini Chetty.
 <br>
 <i>The Ninth Annual ACM Conference on Fairness, Accountability, and Transparency (FAccT),</i>
-June 2026 [Paper forthcoming]
+June 2026
 <br>
 </p>
 
